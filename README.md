@@ -2,7 +2,7 @@
 Tower of Hanoi - classic puzzle game written for **Olivetti M10** - in its version of Microsoft BASIC
 
 I wrote this game in 2002, after finding an old **Olivetti M10** in a *flea market*.
-At this link you can see a video made by [*Enrico Prinzi*](http://limonity.altervista.org) (in Italian) about it.
+At [this link](https://www.youtube.com/watch?v=wqD4tq6FrXY) you can see a video made by [*Enrico Prinzi*](http://limonity.altervista.org) (in Italian) about it.
 
 [![Tower of Hanoi - on Olivetti M10](http://www.sblendorio.eu/attachments/hanoi-m10.png)](https://www.youtube.com/watch?v=wqD4tq6FrXY)
 
